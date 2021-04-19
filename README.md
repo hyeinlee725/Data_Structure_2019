@@ -1,4 +1,4 @@
 # Data Structure
 
-## Assignment
-## Practice Coding
+### Assignment
+### Practice Coding
