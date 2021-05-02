@@ -1,5 +1,6 @@
 # Data Structure
 
-### Practice Coding - C
+### Practice Coding
+### C
 ### Assignment
 
