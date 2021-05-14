@@ -1,6 +1,6 @@
 # Data Structure
 
 ### Practice Coding
-### C
+### Languages : C
 ### Assignment
 
