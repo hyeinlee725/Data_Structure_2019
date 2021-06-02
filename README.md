@@ -1,6 +1,6 @@
 # Data Structure
 
-### Languages : C & C++
+### Languages : C++
 ### Practice Coding
 ### Assignment
 
