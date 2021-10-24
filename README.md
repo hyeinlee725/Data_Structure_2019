@@ -1,4 +1,3 @@
 # Data Structure
 ### Languages : C & C++
-### Practice Coding
-### Assignment
+### Practice Coding & Assignment
