@@ -1,3 +1,3 @@
 # Data Structure
-### rogramming Languages : C & C++
+### Programming Languages : C & C++
 ### Practice Coding & Assignment
